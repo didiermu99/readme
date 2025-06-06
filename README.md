@@ -17,7 +17,7 @@ I'm a beginner in cybersecurity, eager to learn and grow in this exciting field.
 
 ## 🛠️ Skills & Tools
 
-- Languages: `Python` (beginner), `Bash` (beginner)
+- Languages: `Python` , `Bash` 
 - Tools: `Wireshark`, `Nmap`, `Burp Suite` (learning), `Kali Linux`
 - Platforms: `Windows`, `Linux`
 
@@ -41,9 +41,9 @@ I'm a beginner in cybersecurity, eager to learn and grow in this exciting field.
 
 ## 📫 How to Reach Me
 
-- Email: [your.email@example.com]
+- Email: [didiermuhirwa1@gmail.com]
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+
 
 ---
 
